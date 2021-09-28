@@ -4,3 +4,5 @@ I learned how slicing UI Design to Flutter code from [Flutter for Designer: Desi
 
 Download [UI Design Chatty App for Free](https://pixel.buildwithangga.com/details/chatty)
 Flutter [documentation](https://flutter.dev)
+
+Matur Nuwun
